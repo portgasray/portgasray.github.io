@@ -5,12 +5,20 @@
     <link>https://portgasray.github.io/post/</link>
       <atom:link href="https://portgasray.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jun 2021 17:11:06 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
       <link>https://portgasray.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Gitlab</title>
+      <link>https://portgasray.github.io/post/gitlab/</link>
+      <pubDate>Mon, 28 Jun 2021 17:11:06 +0800</pubDate>
+      <guid>https://portgasray.github.io/post/gitlab/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
