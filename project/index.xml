@@ -1,19 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Ray Zhang, D.Eng.</title>
+    <title>Projects | Ray Zhang, D.Eng.</title>
     <link>https://portgasray.github.io/project/</link>
-    <description>Recent content in Projects on Ray Zhang, D.Eng.</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 20 Jun 2021 11:14:50 +0800</lastBuildDate><atom:link href="https://portgasray.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://portgasray.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Jun 2021 11:14:50 +0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Projects</title>
+      <link>https://portgasray.github.io/project/</link>
+    </image>
+    
     <item>
       <title>Robot Grasp 2019</title>
       <link>https://portgasray.github.io/project/robot-grasp/</link>
       <pubDate>Sun, 20 Jun 2021 11:14:50 +0800</pubDate>
-      
       <guid>https://portgasray.github.io/project/robot-grasp/</guid>
-      <description>A demo of Robot Grasp by UR5</description>
+      <description>&lt;p&gt;This is a project finished in 2019 with regard to the Calibration 
+&lt;a href=&#34;https://github.com/portgasray/ur5_realsense_calibration&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repo&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;The Demo of Grasping Video: 
+&lt;a href=&#34;https://drive.google.com/file/d/1hbS7opF2z0BKIAPCWt2k1Dccwxf39kQu/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Drive Video&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;%7bhttps://drive.google.com/file/d/1hbS7opF2z0BKIAPCWt2k1Dccwxf39kQu/view?usp=sharing%7d&#34; title=&#34;Link Title&#34;&gt;&lt;img src=&#34;%7Bimage-url%7D&#34; alt=&#34;Robot Grasp&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!-- # https://github.com/marcomontalbano/video-to-markdown --&gt;
+</description>
     </item>
     
   </channel>
