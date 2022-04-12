@@ -1,16 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Ray Zhang, D.Eng.</title>
+    <title>Authors on Ray Zhang, D.Eng.</title>
     <link>https://portgasray.github.io/authors/</link>
-      <atom:link href="https://portgasray.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Jun 2021 11:14:50 +0800</lastBuildDate>
-    <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Authors</title>
-      <link>https://portgasray.github.io/authors/</link>
-    </image>
+    <description>Recent content in Authors on Ray Zhang, D.Eng.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Jun 2021 11:14:50 +0800</lastBuildDate><atom:link href="https://portgasray.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lei Zhang</title>
+      <link>https://portgasray.github.io/authors/lei-zhang/</link>
+      <pubDate>Sun, 20 Jun 2021 11:14:50 +0800</pubDate>
+      
+      <guid>https://portgasray.github.io/authors/lei-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://portgasray.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://portgasray.github.io/authors/admin/</guid>
+      <description>Ray is a D.Eng Student at the Academy for Engineering and Technology at Fudan University. He worked in Robot Manipulation Lab for one year. Date to January 2019, It’s the first time he touched the robot on MoveItDay China. After short-term learning to manipulate a 6-DOF robot arm. He learned that he still has a long way to go. On later October, he took part in ROScon2019 at Macau, the stories about researchers and developers inspired him to move forward.</description>
+    </item>
     
   </channel>
 </rss>
