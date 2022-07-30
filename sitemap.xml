@@ -1,75 +1,71 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://portgasray.github.io/post/</loc>
+    <loc>/post/dispassion/</loc>
     <lastmod>2021-09-24T12:27:38+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://portgasray.github.io/</loc>
-    <lastmod>2021-09-24T12:27:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://portgasray.github.io/post/dispassion/</loc>
-    <lastmod>2021-09-24T12:27:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://portgasray.github.io/post/bemind/</loc>
+    <loc>/post/bemind/</loc>
     <lastmod>2021-07-17T08:06:37+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://portgasray.github.io/authors/</loc>
+    <loc>/project/robot-grasp/</loc>
     <lastmod>2021-06-20T11:14:50+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://portgasray.github.io/authors/lei-zhang/</loc>
+    <loc>/</loc>
+    <lastmod>2021-09-24T12:27:38+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2021-09-24T12:27:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
     <lastmod>2021-06-20T11:14:50+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://portgasray.github.io/project/</loc>
+    <loc>/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/robotics/</loc>
     <lastmod>2021-06-20T11:14:50+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://portgasray.github.io/project/robot-grasp/</loc>
+    <loc>/tags/</loc>
     <lastmod>2021-06-20T11:14:50+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://portgasray.github.io/tags/robotics/</loc>
-    <lastmod>2021-06-20T11:14:50+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://portgasray.github.io/tags/</loc>
-    <lastmod>2021-06-20T11:14:50+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://portgasray.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://portgasray.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://portgasray.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://portgasray.github.io/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://portgasray.github.io/talk/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
