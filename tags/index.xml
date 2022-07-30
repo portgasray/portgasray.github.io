@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on </title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 20 Jun 2021 11:14:50 +0800</lastBuildDate>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Robotics</title>
-      <link>/tags/robotics/</link>
-      <pubDate>Sun, 20 Jun 2021 11:14:50 +0800</pubDate>
-      
-      <guid>/tags/robotics/</guid>
-      <description></description>
-    </item>
+    <title>Tags | Ray Zhang, D.Eng.</title>
+    <link>https://portgasray.github.io/tags/</link>
+      <atom:link href="https://portgasray.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Jun 2021 11:14:50 +0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Tags</title>
+      <link>https://portgasray.github.io/tags/</link>
+    </image>
     
   </channel>
 </rss>
