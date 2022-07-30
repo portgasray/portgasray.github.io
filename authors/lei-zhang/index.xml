@@ -5,12 +5,20 @@
     <link>https://portgasray.github.io/authors/lei-zhang/</link>
       <atom:link href="https://portgasray.github.io/authors/lei-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Lei Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Jun 2021 11:14:50 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Lei Zhang</title>
       <link>https://portgasray.github.io/authors/lei-zhang/</link>
     </image>
+    
+    <item>
+      <title>A novel distribution for representation of 6D pose uncertainty</title>
+      <link>https://portgasray.github.io/publication/se3bingham/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://portgasray.github.io/publication/se3bingham/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Robot Grasp 2019</title>
